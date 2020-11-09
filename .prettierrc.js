@@ -1,4 +1,5 @@
 module.exports = {
   semi: true,
-  tebWidth: 4
+  tebWidth: 2,
+  singleQuote: true
 };
